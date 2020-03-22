@@ -12,6 +12,7 @@ Time spent: **8** hours spent in total
     - Tested in version: 4.1
     - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: 
+  
   ![AAA](https://github.com/jlangdev/WPvsKali/blob/master/64AAA.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
@@ -22,6 +23,7 @@ Time spent: **8** hours spent in total
     - Tested in version: 4.1
     - Fixed in version: 4.1.8
   - [ ] GIF Walkthrough: 
+  
     ![Sticky](https://github.com/jlangdev/WPvsKali/blob/master/sticky.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
@@ -32,6 +34,7 @@ Time spent: **8** hours spent in total
     - Tested in version: 4.1
     - Fixed in version: 4.2.2
   - [ ] GIF Walkthrough: 
+  
      ![Contributor](https://github.com/jlangdev/WPvsKali/blob/master/Contributor.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
